@@ -829,64 +829,64 @@ a{
     }
 }
 
-@media(max-width:390px){
+/* @media(max-width:390px){
     .inbox15{
         min-height: 150px;
-    }
+    } */
 
-    .pro{
+    /* .pro{
         height: 250px;
         margin-left: -150px;
-    }
+    } */
 
-    .h10{
+    /* .h10{
         font-size: 15px;
         padding-right: 300px;
-    }
-    .h11{
+    } */
+    /* .h11{
         font-size: 15px;
         padding-right: 240px;
-    }
-    .h12{
+    } */
+    /* .h12{
         font-size: 15px;
         padding-right: 280px;
-    }
-    .a1{
+    } */
+    /* .a1{
         font-size: 10px;
         /* padding-left: 41px; */
         padding-right: 270px;
-    }
-    .a2{
+    } */
+    /* .a2{
         font-size: 10px;
         /* padding-left: 51px; */
         padding-right: 260px;
-    }
-    .a3{
+    } */
+    /* .a3{
         font-size: 10px;
         /* padding-left: 54px; */
         padding-right: 260px;
-    }
-    .a4{
+    } */
+    /* .a4{
         font-size: 10px;
         /* padding-left: 31px; */
         padding-right: 280px;
-    }
-    .a5{
+    } */
+    /* .a5{
         font-size: 10px;
         /* padding-left: 64px; */
         padding-right: 310px;
     }
-    .a6{
-        font-size: 10px;
+    .a6{ */
+        /* font-size: 10px;
         /* padding-left: 107px; */
         padding-right: 266px;
-    }
-    .p11{
+    } */
+    /* .p11{
         font-size: 13px;
         font-weight: normal;
         padding-right: 200px;
-    }
-    .btn4{
+    } */
+    /* .btn4{
         margin-right: 195px;
     }
     .link2{
@@ -897,7 +897,7 @@ a{
         padding-right: 190px;
         font-size: 10px;
     }
-}
+} */
 
 /* sec12 */
 .sec12{
@@ -989,6 +989,7 @@ a{
     margin-left: 60px;
   }
 }
+
 
 
 
