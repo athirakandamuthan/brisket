@@ -759,7 +759,7 @@ a{
         min-height: 200px;
     }
 } */
-@media(max-width:991px){
+@media(max-width:720px){
     .inbox15{
         min-height: 150px;
     }
@@ -845,7 +845,7 @@ a{
     }
     .h11{
         font-size: 15px;
-        padding-right: 210px;
+        padding-right: 240px;
     }
     .h12{
         font-size: 15px;
@@ -874,27 +874,27 @@ a{
     .a5{
         font-size: 10px;
         /* padding-left: 64px; */
-        padding-right: 250px;
+        padding-right: 310px;
     }
     .a6{
         font-size: 10px;
         /* padding-left: 107px; */
-        padding-right: 200px;
+        padding-right: 266px;
     }
     .p11{
         font-size: 13px;
         font-weight: normal;
-        padding-right: 218px;
+        padding-right: 200px;
     }
     .btn4{
-        margin-right: 208px;
+        margin-right: 195px;
     }
     .link2{
         font-size: 10px;
-        padding-right: 240px;
+        padding-right: 310px;
     }
     .link3{
-        padding-right: 120px;
+        padding-right: 190px;
         font-size: 10px;
     }
 }
@@ -989,6 +989,7 @@ a{
     margin-left: 60px;
   }
 }
+
 
 
 
