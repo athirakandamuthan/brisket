@@ -964,7 +964,9 @@ a{
 .social-icon {
   max-height: 30px;
 }
-
+.icon1{
+    margin-left: 350px;
+}
 /* Tablet (≤768px) */
 @media (max-width: 768px) {
   .social-icon {
@@ -987,4 +989,5 @@ a{
     margin-left: 60px;
   }
 }
+
 
